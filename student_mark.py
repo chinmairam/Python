@@ -1,0 +1,11 @@
+print("Enter 3 Test Scores")
+print("=========================")
+a = list()
+for _ in range(3):
+    m = float(input("Enter test Score:"))
+    a.append(m)
+print("=========================")
+print("Your Scores: ",end='')
+print(*a,sep=' ')
+print("Total Score: ",sum(a))
+print("Average Score: ",sum(a)/len(a))
