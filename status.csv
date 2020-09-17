@@ -1,0 +1,4 @@
+Name,Status,Income,FD_List,Asset_Value_Dict
+AAA,Professional,800000,"[12000, 45000, 300000, 200000]","{'House': 4500000, 'Car': 600000, 'Land': 4000000, 'Jewels': 1000000}"
+BBB,Politician,10000000,"[2000000, 1000000, 25000000]","{'House': 30000000, 'Car': 2000000, 'Land': 100000000, 'Jewels': 25000000}"
+CCC,Employee,700000,"[500000, 200000, 150000]","{'House': 1000000, 'Jewels': 250000}"
