@@ -20,25 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="563d33ac-8a0e-430b-a1a0-3c1c9f0343b9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../django-fundamentals-course/.idea/django-fundamentals-course.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Myproject.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Myproject.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../django-fundamentals-course/tictactoe/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/../django-fundamentals-course/tictactoe/db.sqlite3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../django-fundamentals-course/tictactoe/player/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/../django-fundamentals-course/tictactoe/player/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../django-fundamentals-course/tictactoe/player/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/../django-fundamentals-course/tictactoe/player/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../django-fundamentals-course/tictactoe/player/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/../django-fundamentals-course/tictactoe/player/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../django-fundamentals-course/tictactoe/templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/../django-fundamentals-course/tictactoe/templates/base.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../django-fundamentals-course/tictactoe/templates/player/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/../django-fundamentals-course/tictactoe/templates/player/home.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../django-fundamentals-course/tictactoe/tictactoe/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/../django-fundamentals-course/tictactoe/tictactoe/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../django-fundamentals-course/tictactoe/tictactoe/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/../django-fundamentals-course/tictactoe/tictactoe/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../django-fundamentals-course/tictactoe/tictactoe/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/../django-fundamentals-course/tictactoe/tictactoe/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../domino_rotation.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../domino_rotation1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mysite/.idea/mysite.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../mysite/.idea/mysite.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mysite/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/../mysite/db.sqlite3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mysite/mysite/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/../mysite/mysite/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mysite/mysite/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/../mysite/mysite/urls.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,7 +49,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../mysite" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../blogsite" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -84,6 +66,8 @@
       <workItem from="1604048815662" duration="742000" />
       <workItem from="1604050655562" duration="666000" />
       <workItem from="1604304595905" duration="1936000" />
+      <workItem from="1607096169480" duration="810000" />
+      <workItem from="1607161865986" duration="169000" />
     </task>
     <servers />
   </component>
@@ -103,9 +87,9 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="830" y="197" key="FileChooserDialogImpl" timestamp="1603888691952">
+    <state x="830" y="197" key="FileChooserDialogImpl" timestamp="1607162051281">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="830" y="197" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1603888691952" />
+    <state x="830" y="197" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1607162051281" />
   </component>
 </project>

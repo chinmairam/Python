@@ -2,7 +2,7 @@
 You are given a string S with length N.
 Determine if it is possible to find two non-empty strings A and B which satisfy the following conditions:
 
-1.A+B=S, where + denotes string concatenation
+1.A+B=S, where + denotes strings  concatenation
 2.B is a substring of A
 """
 
